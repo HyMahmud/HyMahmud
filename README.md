@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **(https://cxmodels.boards.net/)**
 
-- 📫 How to reach me **(https://vk.com/devmodelscx)**
+- 📫 How to reach me **(https://discord.gg/E5myyEy5AN)**
 
 - ⚡ Fun fact **I play games**
 
