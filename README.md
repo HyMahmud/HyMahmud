@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/5T6LO9O.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm LuXo KING Gaming</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm HyMahmud</h1>
 <h3 align="center">I'm a developer of zombie models for humans for boxes Game Counter Strike 1.6.</h3>
 
 
@@ -27,16 +27,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/LuXoKINGGaming/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="LuXo KING Gaming's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LuXoKINGGaming&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/HyMahmud/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="LuXo KING Gaming's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HyMahmud&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/LuXoKINGGaming28/github-readme-stats"><img alt="LuXoKINGGaming's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LuXoKINGGaming&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/LuXoKINGGaming/github-readme-stats"><img alt="LuXo KING Gaming's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuXoKINGGaming&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/HyMahmud/github-readme-stats"><img alt="HyMahmud's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HyMahmud&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/HyMahmud/github-readme-stats"><img alt="LuXo KING Gaming's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyMahmud&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
 <br/>
@@ -49,7 +49,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/LuXoKINGGaming/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=LuXoKINGGaming">
+<a href="https://github.com/HyMahmud/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=HyMahmud">
 </a>
-<a href="https://github.com/LuXoKINGGaming?tab=followers"><img src="https://img.shields.io/github/followers/LuXoKINGGaming?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/HyMahmud?tab=followers"><img src="https://img.shields.io/github/followers/HyMahmud?label=Followers&style=social" alt="GitHub Badge"></a>
