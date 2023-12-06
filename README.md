@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **(https://cxmodels.boards.net/)**
 
-- 📫 How to reach me **(https://discord.gg/E5myyEy5AN)**
+- 📫 How to reach me **(It has been closed)**
 
 - ⚡ Fun fact **I play games**
 
@@ -37,3 +37,5 @@
     <img src="https://komarev.com/ghpvc/?username=HyMahmud">
 </a>
 <a href="https://github.com/HyMahmud?tab=followers"><img src="https://img.shields.io/github/followers/HyMahmud?label=Followers&style=social" alt="GitHub Badge"></a>
+
+## Status is now retired 
