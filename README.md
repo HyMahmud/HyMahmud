@@ -38,4 +38,3 @@
 </a>
 <a href="https://github.com/HyMahmud?tab=followers"><img src="https://img.shields.io/github/followers/HyMahmud?label=Followers&style=social" alt="GitHub Badge"></a>
 
-## Status is now retired 
