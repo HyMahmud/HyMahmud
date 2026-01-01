@@ -12,7 +12,7 @@
 - 🔭 Currently working on **many exciting projects**  
 - 🌱 Learning **Web Development**  
 - 👯 Open to **collaborating on Open Source**  
-- 👨‍💻 Check out my work at [cxmodels.boards.net](https://cxmodels.boards.net)  
+- 👨‍💻 Check out my work at [hymahmudmodels.boards.net](https://hymahmudmodels.boards.net)  
 - 📫 Reach me on [Discord](https://discord.gg/tRg4ytQEVC)  
 - ⚡ Fun fact: **I love playing games! 🎮**
 
