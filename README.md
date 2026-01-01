@@ -1,4 +1,4 @@
-<a href="#"><img src="https://i.imgur.com/5T6LO9O.png" width="100%" height="auto"/></a>
+<a href="#"><img src="https://i.imgur.com/kJN6bxf.png" width="100%" height="450"/></a>
 
 <h1 align="center">Hi 👋, I'm HyMahmud</h1>
 <h1 align="center">Note: In the past my old name was 🍃, LuXo KING Gaming</h1>
