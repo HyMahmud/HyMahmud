@@ -1,9 +1,12 @@
 <a href="#"><img src="https://i.imgur.com/kJN6bxf.png" width="100%" height="450"/></a>
 
-<h1 align="center">Hi 👋, I'm HyMahmud</h1>
-<h1 align="center">Note: In the past my old name was 🍃, LuXo KING Gaming</h1>
+<h1 align="center">Hi there, I'm HyMahmud! 👋</h1>
+<p align="center">
+  <em>(Formerly known as 🍃 LuXo KING Gaming)</em>
+</p>
 
-<h3 align="center">Developer of custom zombie models for humans in Counter-Strike 1.6 🧟‍♂️</h3>
+<h3 align="center">Developer of custom zombie models for humans and etc. in Counter-Strike 1.6 🧟‍♂️</h3>
+<h3 align="center">Developer of custom Plugins and etc. in Counter-Strike 1.6 🧟‍♂️</h3>
 
 ---
 
@@ -20,14 +23,30 @@
 
 ## 🚀 Languages & Tools
 
+### 🎨 3D Modeling & Texturing
 <p align="left">
-  <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unreal-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+</p>
+
+### 💻 Programming & Engine Scripting
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pawn/AMXX-4B8BBE?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+### 🌐 Modern Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  
 </p>
 
 ---
@@ -42,13 +61,13 @@
 
 ---
 
-## ❤️ Views and Followers
-
-<p>
-  <a href="https://github.com/HyMahmud/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=HyMahmud&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/HyMahmud?tab=followers">
-    <img src="https://img.shields.io/github/followers/HyMahmud?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
-</p>
+<div align="center">
+  <h2>❤️ Community & Support</h2>
+  <p>If you like my models, check out the community or drop a follow!</p>
+  
+  <p>
+    <a href="https://github.com/HyMahmud/github-profile-views-counter">
+      <img src="https://komarev.com/ghpvc/?username=HyMahmud&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+    </a>
+  </p>
+</div>
